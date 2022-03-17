@@ -16,7 +16,7 @@ public class HelloWorld {
         lister.add(2);
         lister.add(3);
 
-        System.out.println(lister);
+        System.out.println(lister + "everything in thte list ");
     }
 
 
